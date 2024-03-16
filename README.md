@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ankur ramteke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur ramteke" height="30" width="40" /></a>
 
-  <a href="ankurramteke7@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankur ramteke" height="30" width="40" /></a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&su=subject+message&to=ankurramteke7@gmail.com" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/carlosjj/google-jfk/128/googlemail-icon.png" alt="ankur ramteke" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
